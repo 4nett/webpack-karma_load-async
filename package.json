@@ -1,0 +1,24 @@
+{
+    "name": "webpack-karma_load-async",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.js",
+    "scripts": {
+        "test": "test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/4nett/webpack-karma_load-async.git"
+    },
+    "keywords": [
+        "webpack",
+        "karma",
+        "async"
+    ],
+    "author": "4nett",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/4nett/webpack-karma_load-async/issues"
+    },
+    "homepage": "https://github.com/4nett/webpack-karma_load-async#readme"
+}
